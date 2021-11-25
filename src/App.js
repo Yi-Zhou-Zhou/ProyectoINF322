@@ -12,7 +12,7 @@ function App() {
       <Sidebar/>
       <Home />
       <FeaturedInfo/>
-      {/* <DataInfo/> */}
+      <DataInfo/>
     </div>
     </div>
   );

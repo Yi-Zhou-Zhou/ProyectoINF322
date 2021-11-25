@@ -1,7 +1,11 @@
 .elementWrapper{
-    display: flex;
-    float: right;
-    width: 25%;
-    clear: both;
-    background-color: pink;
+    position:absolute;
+    margin-left: 150px;
+    margin-top:500px;
+    padding-bottom: 20px;
+    
+}
+
+.xd{
+    color: '#efa557';
 }
