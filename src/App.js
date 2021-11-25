@@ -4,6 +4,7 @@ import "./app.css";
 import Home from "./pages/home/Home"
 import FeaturedInfo from "./components/FeaturedInfo/FeaturedInfo";
 import DataInfo from "./components/DataInfo/DataInfo"
+import Graph from "./components/Graphs/Graphs"
 function App() {
   return (
     <div>
@@ -12,7 +13,10 @@ function App() {
       <Sidebar/>
       <Home />
       <FeaturedInfo/>
+      <div className="newDivision">
       <DataInfo/>
+      <Graph/>
+      </div>
     </div>
     </div>
   );

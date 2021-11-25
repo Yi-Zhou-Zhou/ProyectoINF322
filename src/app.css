@@ -3,3 +3,10 @@
     display:flex;
     margin-top:10px;
 }
+
+.newDivision{
+    position:absolute;
+    margin-left: 150px;
+    margin-top:500px;
+    padding-bottom: 20px;
+}
